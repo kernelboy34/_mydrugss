@@ -544,7 +544,7 @@ li.list_desc h4 a:hover{
 }
 .content-bottom{
 	width:100%;
-	background: url(../images/crazy.png)no-repeat center top;
+	background: url(../images/crazy.png) no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
